@@ -1,0 +1,2 @@
+# diploma_thesis_pgx_ddi
+Prediktive Simulation von Praxis-optimierten Alerts für Arzneimittelwechselwirkungen und individueller pharmakogenetischer Marker mittels retrospektiver Daten im österreichischen Gesundheitswesen
